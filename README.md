@@ -4,6 +4,9 @@ An advanced, user-friendly desktop application powered by **OpenAI's Whisper** a
 
 ---
 
+<img width="901" height="723" alt="image" src="https://github.com/user-attachments/assets/5e1db9c1-d845-4eab-9ae8-311038a9afd8" />
+
+
 ## 🌍 Language Options / Dil Seçenekleri
 - [English](#english)
 - [Türkçe](#türkçe)
